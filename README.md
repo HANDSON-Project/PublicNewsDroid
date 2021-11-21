@@ -1,4 +1,4 @@
-![Logo](./images/logo.png)
+![Logo](images/logo.png)
 
 Public News Droid for Hands-on Project 2021-2
 [NevonProjects)](https://nevonprojects.com/public-news-droid/)
