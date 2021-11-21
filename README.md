@@ -1,7 +1,8 @@
 ![Logo](images/logo.png)
 
 Public News Droid for Hands-on Project 2021-2
-[NevonProjects)](https://nevonprojects.com/public-news-droid/)
+
+[(NevonProjects)](https://nevonprojects.com/public-news-droid/)
 
 ## 팀원 구성
 
