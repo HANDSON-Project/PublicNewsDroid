@@ -46,6 +46,9 @@ Public News Droid for Hands-on Project 2021-2
 ### The Scenarios
 
 
+## Requirements Gethering
+### [requirements](https://github.com/HANDSON-Project/PublicNewsDroid/documents/Requirements.pdf)
+
 ## Weekly Scrum Meeting
 ### The 1st Scrum Meeting (2021/11/22 Mon)
 
