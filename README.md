@@ -1,4 +1,4 @@
-![Logo](https://github.com/HANDSON-Project/PublicNewsDroid/blob/develop/image/logo.png){: width="200" height="200"}
+<img src="https://github.com/HANDSON-Project/PublicNewsDroid/blob/develop/image/logo.png"  width="200" height="400"/>
 
 Public News Droid for Hands-on Project 2021-2
 
