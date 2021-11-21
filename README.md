@@ -1,4 +1,4 @@
-![Logo](images/logo.png)
+![Logo](https://github.com/HANDSON-Project/PublicNewsDroid/blob/develop/images/logo.png)
 
 Public News Droid for Hands-on Project 2021-2
 
@@ -47,7 +47,7 @@ Public News Droid for Hands-on Project 2021-2
 
 
 ## Requirements Gethering
-### [requirements](https://github.com/HANDSON-Project/PublicNewsDroid/documents/Requirements.pdf)
+### [requirements](https://github.com/HANDSON-Project/PublicNewsDroid/blob/develop/documents/Requirements.pdf)
 
 ## Weekly Scrum Meeting
 ### The 1st Scrum Meeting (2021/11/22 Mon)
