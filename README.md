@@ -11,7 +11,7 @@ Public News Droid for Hands-on Project 2021-2
 | 김건우 |  | 소프트웨어 | [](https://github.com/) |
 | 마재완 |  | 소프트웨어 | [](https://github.com/)             |
 | 신원준 | 20170223 | 소프트웨어 | [identity16](https://github.com/identity16)   |
-| 이윤동 |  | 소프트웨어 | [](https://github.com/)       |
+| 이윤동 | 20171722 | 컴퓨터공학과 | [](https://github.com/yleer)       |
 | 임혜정 | 20185122 | 소프트웨어   | [HyeJeongIm](https://github.com/HyeJeongIm)       |
 | 최재은 | 20186085 | 소프트웨어   | [jjaen0823](https://github.com/jjaen0823)       |
 
