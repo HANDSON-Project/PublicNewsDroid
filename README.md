@@ -11,7 +11,7 @@ Public News Droid for Hands-on Project 2021-2
 | 김건우 | 2017**62 | 소프트웨어 | sowhat443@gmail.com | [Make-BeingSelf](https://github.com/Make-BeingSelf) |
 | 마재완 | 2016**99 | 소프트웨어 | wigbuldok@naver.com | [jwMah](https://github.com/jwMah)             |
 | 신원준 | 2017**23 | 소프트웨어 | | [identity16](https://github.com/identity16)   |
-| 이윤동 | 2017**22 | 컴퓨터공학과 | | [yleer](https://github.com/yleer)       |
+| 이윤동 | 2017**22 | 컴퓨터공학과 | spsyoudong1@naver.com | [yleer](https://github.com/yleer)       |
 | 임혜정 | 2018**22 | 소프트웨어  | | [HyeJeongIm](https://github.com/HyeJeongIm)       |
 | 최재은 | 2018**85 | 소프트웨어 | jjaen0823@cau.ac.kr | [jjaen0823](https://github.com/jjaen0823)       |
 
