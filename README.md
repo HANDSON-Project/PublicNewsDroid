@@ -9,7 +9,7 @@ Public News Droid for Hands-on Project 2021-2
 | 이름   | 학번     | 학과       | 이메일                                        | 깃허브                                        |
 | ------ | -------- | ---------- | --------------------------------------------- | --------------------------------------------- |
 | 김건우 |  | 소프트웨어 | | [](https://github.com/) |
-| 마재완 | 2016**99 | 소프트웨어 | | [jwMah](https://github.com/jwMah)             |
+| 마재완 | 2016**99 | 소프트웨어 | wigbuldok@naver.com | [jwMah](https://github.com/jwMah)             |
 | 신원준 | 2017**23 | 소프트웨어 | | [identity16](https://github.com/identity16)   |
 | 이윤동 | 2017**22 | 컴퓨터공학과 | | [yleer](https://github.com/yleer)       |
 | 임혜정 | 2018**22 | 소프트웨어  | | [HyeJeongIm](https://github.com/HyeJeongIm)       |
@@ -36,6 +36,7 @@ Public News Droid for Hands-on Project 2021-2
 
 ### The Problem
 
+신문 등의 진흥에 관한 법률에 따라 누구든 신문사업을 등록만 하면 운영할 수 있다. 이로 인해 많은 온라인 매체가 생겨났고 인터넷 신문의 시대가 도래했다. 하루에도 엄청난 양의 인터넷 뉴스 기사들을 접할 수 있다. 하지만 자신이 사는 지역별로 뉴스 기사들을 카테고리화하는 것에 어려움이 있다. 또한 자신의 거주 지역별로 사건 사고, 새로운 정책등을 파악하기 어렵습니다. 
 
 
 ### The Scenarios
