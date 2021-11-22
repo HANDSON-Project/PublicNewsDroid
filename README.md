@@ -13,7 +13,7 @@ Public News Droid for Hands-on Project 2021-2
 | 신원준 | 2017**23 | 소프트웨어 | | [identity16](https://github.com/identity16)   |
 | 이윤동 | 2017**22 | 컴퓨터공학과 | | [yleer](https://github.com/yleer)       |
 | 임혜정 | 2018**22 | 소프트웨어  | | [HyeJeongIm](https://github.com/HyeJeongIm)       |
-| 최재은 | 2018**85 | 소프트웨어 | | [jjaen0823](https://github.com/jjaen0823)       |
+| 최재은 | 2018**85 | 소프트웨어 | jjaen0823@cau.ac.kr | [jjaen0823](https://github.com/jjaen0823)       |
 
 
 
