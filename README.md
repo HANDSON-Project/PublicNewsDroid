@@ -16,6 +16,8 @@ Public News Droid for Hands-on Project 2021-2
 | 최재은 | 2018**85 | 소프트웨어 | jjaen0823@cau.ac.kr | [jjaen0823](https://github.com/jjaen0823)       |
 
 
+## notion
+(https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
 
 ## Subgroups
 
