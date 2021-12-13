@@ -17,7 +17,7 @@ Public News Droid for Hands-on Project 2021-2
 
 
 ## notion
-(https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
+[Project Backlog](https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
 
 ## Subgroups
 
