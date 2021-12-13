@@ -4,6 +4,10 @@ Public News Droid for Hands-on Project 2021-2
 
 [(NevonProjects)](https://nevonprojects.com/public-news-droid/)
 
+
+# notion
+[Project Backlog](https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
+
 ## 팀원 구성
 
 | 이름   | 학번     | 학과       | 이메일                                        | 깃허브                                        |
@@ -15,9 +19,6 @@ Public News Droid for Hands-on Project 2021-2
 | 임혜정 | 2018**22 | 소프트웨어  |dlaowjde@naver.com  | [HyeJeongIm](https://github.com/HyeJeongIm)       |
 | 최재은 | 2018**85 | 소프트웨어 | jjaen0823@cau.ac.kr | [jjaen0823](https://github.com/jjaen0823)       |
 
-
-## notion
-[Project Backlog](https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
 
 ## Subgroups
 
