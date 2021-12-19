@@ -35,7 +35,7 @@ Public News Droid for Hands-on Project 2021-2
 
 
 ## Problem Statement
-### [problem statement](https://www.notion.so/Problem-Statement-86a70d663c814b038ce22dcc3226ed1c)
+[problem statement](https://www.notion.so/Problem-Statement-86a70d663c814b038ce22dcc3226ed1c)
 
 ### The Problem
 
@@ -51,8 +51,10 @@ Public News Droid for Hands-on Project 2021-2
 
 
 ## Requirements Gethering
-### [requirements](https://www.notion.so/aac1cc2b75f64bb8bff0a7d6f84dd3cc?v=23a39bf97a2e4e9181243d4d7ec8c073)
+[requirements](https://www.notion.so/aac1cc2b75f64bb8bff0a7d6f84dd3cc?v=23a39bf97a2e4e9181243d4d7ec8c073)
 
 
+## Weekly Scrum Meeting
 
+[sprint meeting](https://www.notion.so/Sprint-Planning-Meeting-070d9604ade047118c9538f07151b12f)
 
