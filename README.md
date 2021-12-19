@@ -6,6 +6,7 @@ Public News Droid for Hands-on Project 2021-2
 
 
 # notion
+#### 문서 작업은 notion에 정리되어 있습니다.
 [Project Backlog](https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
 
 ## 팀원 구성
@@ -26,16 +27,15 @@ Public News Droid for Hands-on Project 2021-2
 뉴스 업로드, 댓글, 좋아요 페이지
 
 - 담당자 : 신원준, 마재완, 최재은
-- 산출물 : [documents/SubgroupA_](https://github.com/HANDSON-Project/PublicNewsDroid)
 
 ### B. Management
 사용자 로그인, 회원가입, 사용자 정보 페이지
 
 - 담당자 : 김건우, 이윤동, 임혜정
-- 산출물 : [documents/SubgroupB_](https://github.com/HANDSON-Project/PublicNewsDroid)
 
 
 ## Problem Statement
+### [problem statement](https://www.notion.so/Problem-Statement-86a70d663c814b038ce22dcc3226ed1c)
 
 ### The Problem
 
@@ -51,12 +51,8 @@ Public News Droid for Hands-on Project 2021-2
 
 
 ## Requirements Gethering
-### [requirements](https://github.com/HANDSON-Project/PublicNewsDroid/blob/develop/documents/Requirements.pdf)
-
-## Weekly Scrum Meeting
-### The 1st Scrum Meeting (2021/11/22 Mon)
+### [requirements](https://www.notion.so/aac1cc2b75f64bb8bff0a7d6f84dd3cc?v=23a39bf97a2e4e9181243d4d7ec8c073)
 
 
-## How To Build
 
 
