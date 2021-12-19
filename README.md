@@ -23,13 +23,13 @@ Public News Droid for Hands-on Project 2021-2
 ## Subgroups
 
 ### A. Public News
-뉴스 업로드, 댓글, 좋아요, 신고가 가능한 사용자 페이지
+뉴스 업로드, 댓글, 좋아요 페이지
 
 - 담당자 : 신원준, 마재완, 최재은
 - 산출물 : [documents/SubgroupA_](https://github.com/HANDSON-Project/PublicNewsDroid)
 
 ### B. Management
-뉴스 게시물, 신고 관리가 가능한 관리자 페이지
+사용자 로그인, 회원가입, 사용자 정보 페이지
 
 - 담당자 : 김건우, 이윤동, 임혜정
 - 산출물 : [documents/SubgroupB_](https://github.com/HANDSON-Project/PublicNewsDroid)
@@ -48,8 +48,6 @@ Public News Droid for Hands-on Project 2021-2
 
 웹사이트나 어플에 접속하여 별도로 부여된 관리자 계정 로그인을 통해 관리자용 페이지로 접속할 수 있어야 합니다. 관리자 페이지에서는 지역을 선택하여 해당 지역의 전체 뉴스를 확인할 수 있고, 관련이 없거나 부적절하다고 판단될 경우 삭제할 수 있습니다. 또한, 신고받은 뉴스들을 확인하여 삭제할 수 있습니다.
 
-
-### The Scenarios
 
 
 ## Requirements Gethering
