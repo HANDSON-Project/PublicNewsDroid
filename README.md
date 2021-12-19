@@ -7,7 +7,7 @@ Public News Droid for Hands-on Project 2021-2
 
 # notion
 #### 문서 작업은 notion에 정리되어 있습니다.
-[Project Backlog](https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
+[Team Home](https://scientific-pegasus-1de.notion.site/Team-Home-1fbf041329da4b4b8cc39f2f73907f89)
 
 ## 팀원 구성
 
